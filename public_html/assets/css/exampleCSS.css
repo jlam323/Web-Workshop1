@@ -30,3 +30,34 @@ p.notcentered {
     text-align: center;
     color: red;
 }
+
+
+/*Element Selector*/
+p{
+    font-size: 12px;
+}
+/*ID Selector*/
+#thisisID{
+    text-align: center;
+}
+/*Class Selector*/
+.ClassName {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+/*Group Selectors*/
+h1, h2, h3{
+    font-family: "Times New Roman";
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
