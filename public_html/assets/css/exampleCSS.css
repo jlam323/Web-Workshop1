@@ -4,53 +4,26 @@
 ///////CSS PART 1 //////////////
 ////////////////////////////////
 //////////////////////////////*/
-body, html {
-    background-color: darkviolet;
 
-}
-
-
-.test1{
-    background-color: blue;
-    border-style: double;
-    border-width: 15px;
-}
-
-p {/*every paragraph element will be affected*/
-    text-align: center;
-    color: red;
-}
-
-p.notcentered {
-    text-align: left;
-    color: orange;
-}
-
-#exampleId {/* every element with this id is affected*/
-    text-align: center;
-    color: red;
-}
-
-
-/*Element Selector*/
+/*Element Selector
 p{
     font-size: 12px;
-}
-/*ID Selector*/
+}*/
+/*ID Selector
 #thisisID{
     text-align: center;
-}
-/*Class Selector*/
+}*/
+/*Class Selector
 .ClassName {
     width: 50%;
     height: 50%;
     background-color: red;
-}
-/*Group Selectors*/
+}*/
+/*Group Selectors
 h1, h2, h3{
     font-family: "Times New Roman";
     font-size: 16px;
-}
+}*/
 
 
 
