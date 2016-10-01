@@ -1,2 +1,1 @@
-<?php
-include_once ("pureHTML.html");
+<?php include_once ("pureHTML.html"); ?>
