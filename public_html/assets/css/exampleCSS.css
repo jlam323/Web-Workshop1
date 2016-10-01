@@ -1,9 +1,32 @@
-/*
+
+/*//////////////////////////////
+////////////////////////////////
+///////CSS PART 1 //////////////
+////////////////////////////////
+//////////////////////////////*/
 body, html {
     background-color: darkviolet;
-} */
 
-/*
+}
+
+
 .test1{
     background-color: blue;
-}*/
+    border-style: double;
+    border-width: 15px;
+}
+
+p {/*every paragraph element will be affected*/
+    text-align: center;
+    color: red;
+}
+
+p.notcentered {
+    text-align: left;
+    color: orange;
+}
+
+#exampleId {/* every element with this id is affected*/
+    text-align: center;
+    color: red;
+}
