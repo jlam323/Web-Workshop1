@@ -5,25 +5,26 @@
 ////////////////////////////////
 //////////////////////////////*/
 
-/*Element Selector
+/* Element Selector example */
 p{
     font-size: 12px;
-}*/
-/*ID Selector
+    color: green;
+}
+/*ID Selector example */
 #thisisID{
     text-align: center;
-}*/
-/*Class Selector
-.ClassName {
+}
+/*Class Selector example*/
+.test1 {
     width: 50%;
     height: 50%;
     background-color: red;
-}*/
-/*Group Selectors
+}
+/*Group Selectors example */
 h1, h2, h3{
     font-family: "Times New Roman";
     font-size: 16px;
-}*/
+}
 
 
 
